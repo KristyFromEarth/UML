@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T16:09:33.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_pv4xt_uPKCaJI9eWIWS" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T16:20:37.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yh2U6on2nuHDhWrkLx5s" version="20.5.3" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="1858" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,6 +119,114 @@
         </mxCell>
         <mxCell id="BiViNPcqUaIFcpwJiyQU-50" value="&lt;i&gt;Koncové místo se nerovná počátečnímu&amp;nbsp;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-54" target="BiViNPcqUaIFcpwJiyQU-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-54" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="65" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=0.944;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="779.52" y="1440.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-58" target="BiViNPcqUaIFcpwJiyQU-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1405.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-58" value="Kontrola" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1375" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-59" target="BiViNPcqUaIFcpwJiyQU-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-59" value="Výpočet délky" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-60" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#000000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-66" target="BiViNPcqUaIFcpwJiyQU-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="980" />
+            </Array>
+            <mxPoint x="580" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-61" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#000000;fontFamily=Verdana;fontSize=12;align=left;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634.7" y="1375.0000000000002" as="sourcePoint" />
+            <mxPoint x="634.7" y="1119.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="634.7" y="1155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-70" target="BiViNPcqUaIFcpwJiyQU-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1405" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-63" value="&lt;i&gt;Neúplná trasa&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-65" value="&lt;i&gt;Město vloženo na zásobník&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-66" value="Najdi nejbližšího souseda" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-67" value="&lt;i&gt;Trasa nalezena&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-68" value="&lt;i&gt;Vybrán soused&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-69" value="Vložení koncového místa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1515" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-70" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1365" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-71" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="935" y="1390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-72" value="&lt;i&gt;Chybí koncové místo&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-73" value="&lt;i&gt;počátek = konec&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-76" target="BiViNPcqUaIFcpwJiyQU-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiViNPcqUaIFcpwJiyQU-76" target="BiViNPcqUaIFcpwJiyQU-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-76" value="Vyber první trasu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-82" value="&lt;i&gt;Trasa vybrána&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="950" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-83" value="&lt;i&gt;Žádná trasa&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-84" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-87" value="Výpočet délky" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiViNPcqUaIFcpwJiyQU-89" value="&lt;i&gt;Výpočet nejrychlejší trasy&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="810" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
