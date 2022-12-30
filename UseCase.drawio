@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T22:08:57.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="-xzDapmVsf7M1Hmfe2K4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T22:15:44.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="jQ6xovnrj6IwVDSvNNgd" type="github">
   <diagram id="yqqX98Np4aD_qBFHjlHB" name="Stránka-1">
     <mxGraphModel dx="791" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="sryESrAk-QUB-Bo82VV7-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="70" width="200" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="sryESrAk-QUB-Bo82VV7-2" value="Přidat město" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-1">
+        <mxCell id="sryESrAk-QUB-Bo82VV7-2" value="Přidat města" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-1">
           <mxGeometry x="30" y="30" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sryESrAk-QUB-Bo82VV7-3" value="Zvolit start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-1">
@@ -47,6 +47,69 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="260" as="sourcePoint" />
             <mxPoint x="370" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-12" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="200" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-13" value="Vybrat trasu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="30" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-14" value="Pojmenovat trasu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="30" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-15" value="Uložit trasu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="30" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-16" value="Zobrazit výsledek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="30" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-17" value="Přidání trasy do oblíbené" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="5" y="-5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-18" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.007;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sryESrAk-QUB-Bo82VV7-12" target="sryESrAk-QUB-Bo82VV7-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="150" as="sourcePoint" />
+            <mxPoint x="30" y="140.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sryESrAk-QUB-Bo82VV7-12" target="sryESrAk-QUB-Bo82VV7-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="170" as="sourcePoint" />
+            <mxPoint x="30" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-24" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="30" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sryESrAk-QUB-Bo82VV7-12" target="sryESrAk-QUB-Bo82VV7-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="120" as="sourcePoint" />
+            <mxPoint x="25" y="78.22000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-36" value="Log off" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sryESrAk-QUB-Bo82VV7-12">
+          <mxGeometry x="30" y="450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-20" value="Uživatel" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sryESrAk-QUB-Bo82VV7-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="650" as="sourcePoint" />
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sryESrAk-QUB-Bo82VV7-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="710" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sryESrAk-QUB-Bo82VV7-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="740" as="sourcePoint" />
+            <mxPoint x="390" y="1001.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
