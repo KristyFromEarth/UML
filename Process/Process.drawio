@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T20:08:06.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Lnloy9O8-I9h3ozkWN0J" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T20:08:56.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XkHT0S9xMNLKrGUld5Vi" version="20.8.22" type="github">
   <diagram name="Stránka-1" id="GkniLpcTyyBhh2dXb4qm">
     <mxGraphModel dx="2585" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
           <mxGeometry x="10" y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-4" value="škola" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-3">
-          <mxGeometry x="-20" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="-20" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-30" value="Potvrzení přijetí přihlášky" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-3">
           <mxGeometry x="250" y="2.5" width="110" height="75" as="geometry" />
