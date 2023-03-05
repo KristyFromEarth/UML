@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T15:30:34.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TpgOJoCbf6k9wCxxfBFW" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T17:27:00.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Gqvtv0V2ZOkBoQX8CcbM" version="20.8.22" type="github">
   <diagram name="Stránka-1" id="GkniLpcTyyBhh2dXb4qm">
     <mxGraphModel dx="1880" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-1" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="130" width="1300" height="320" as="geometry" />
+          <mxGeometry x="190" y="130" width="1400" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-2" value="Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
           <mxGeometry x="-20" y="145" width="60" height="30" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="30" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-7" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
-          <mxGeometry x="1210" y="50" width="50" height="50" as="geometry" />
+          <mxGeometry x="1340" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-8" target="ZvNCzg9YMRPsK_EZllgJ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-11" value="Vyplnit dokumenty" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
-          <mxGeometry x="290" y="35" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="35" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-13" value="Zajem o studium" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
           <mxGeometry x="25" y="100" width="65" height="30" as="geometry" />
@@ -65,29 +65,79 @@
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-50" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
           <mxGeometry x="600" y="50" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-54" target="ZvNCzg9YMRPsK_EZllgJ-58">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-54" target="ZvNCzg9YMRPsK_EZllgJ-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-54" target="ZvNCzg9YMRPsK_EZllgJ-62">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-54" target="ZvNCzg9YMRPsK_EZllgJ-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-54" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
           <mxGeometry x="700" y="50" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-58" target="ZvNCzg9YMRPsK_EZllgJ-60">
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-60" target="ZvNCzg9YMRPsK_EZllgJ-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-58" value="Přijat bez přijímacího řízení." style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
-          <mxGeometry x="790" y="35" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-60" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
-          <mxGeometry x="970" y="50" width="50" height="50" as="geometry" />
+          <mxGeometry x="1100" y="50" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-62" value="Povinnost absolvovat přijímací řízení" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
-          <mxGeometry x="665" y="150" width="120" height="80" as="geometry" />
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-64" target="ZvNCzg9YMRPsK_EZllgJ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-64" value="Přijímací test" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="830" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-66" target="ZvNCzg9YMRPsK_EZllgJ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-66" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="990" y="165" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1125" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-68" target="ZvNCzg9YMRPsK_EZllgJ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-68" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1100" y="165" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-75" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1100" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-76" value="Student nepřijat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1095" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-77" value="Student přijat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1335" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-79" value="Povinnost absolvovat přijímací řízení" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="720" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-1" source="ZvNCzg9YMRPsK_EZllgJ-80" target="ZvNCzg9YMRPsK_EZllgJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-80" value="Zápis do studia" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1180" y="35" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-81" value="Přijat bez přijímacího řízení." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="820" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-84" value="Nedostatečný počet bodů z testu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1120" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvNCzg9YMRPsK_EZllgJ-85" value="Dostatečný počet bodů z testu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZvNCzg9YMRPsK_EZllgJ-1">
+          <mxGeometry x="1120" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-3" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="540" width="1030" height="290" as="geometry" />
+          <mxGeometry x="180" y="670" width="1400" height="370" as="geometry" />
         </mxCell>
         <mxCell id="ZvNCzg9YMRPsK_EZllgJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZvNCzg9YMRPsK_EZllgJ-3" source="ZvNCzg9YMRPsK_EZllgJ-19">
           <mxGeometry relative="1" as="geometry">
