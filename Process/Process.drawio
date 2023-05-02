@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T21:03:37.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="rG8C-OpJZVyfC1upOXpy" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T16:42:09.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="Ag8EkdpkxKuTXtwRAKl0" version="21.2.3" type="github">
   <diagram name="Stránka-1" id="GkniLpcTyyBhh2dXb4qm">
     <mxGraphModel dx="1500" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1015,7 +1015,7 @@
         <mxCell id="w31nyc2JvTi2jJCD2eye-180" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=16;" parent="MccWKOCTFyIUFW1AII4p-473" vertex="1">
           <mxGeometry x="558" y="416" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w31nyc2JvTi2jJCD2eye-227" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" parent="MccWKOCTFyIUFW1AII4p-27" source="MccWKOCTFyIUFW1AII4p-654" target="MccWKOCTFyIUFW1AII4p-376" edge="1">
+        <mxCell id="w31nyc2JvTi2jJCD2eye-227" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;dashed=1;dashPattern=8 8;" parent="MccWKOCTFyIUFW1AII4p-27" source="MccWKOCTFyIUFW1AII4p-654" target="MccWKOCTFyIUFW1AII4p-376" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="700" y="570" as="sourcePoint" />
             <mxPoint x="860" y="570" as="targetPoint" />
@@ -1024,10 +1024,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w31nyc2JvTi2jJCD2eye-231" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" parent="MccWKOCTFyIUFW1AII4p-27" source="w31nyc2JvTi2jJCD2eye-228" target="MccWKOCTFyIUFW1AII4p-72" edge="1">
+        <mxCell id="w31nyc2JvTi2jJCD2eye-231" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;dashed=1;dashPattern=8 8;" parent="MccWKOCTFyIUFW1AII4p-27" source="w31nyc2JvTi2jJCD2eye-228" target="MccWKOCTFyIUFW1AII4p-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w31nyc2JvTi2jJCD2eye-234" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" parent="MccWKOCTFyIUFW1AII4p-27" source="MccWKOCTFyIUFW1AII4p-108" target="w31nyc2JvTi2jJCD2eye-228" edge="1">
+        <mxCell id="w31nyc2JvTi2jJCD2eye-234" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;dashed=1;dashPattern=8 8;" parent="MccWKOCTFyIUFW1AII4p-27" source="MccWKOCTFyIUFW1AII4p-108" target="w31nyc2JvTi2jJCD2eye-228" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="300" />
